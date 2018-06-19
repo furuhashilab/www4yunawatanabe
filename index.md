@@ -3,6 +3,7 @@
 
 こんにちは！　青山学院大学[古橋研究室](http://furuhashilab.com/)の　渡辺結南のアウトプット用 webサイトです。
 
+<img src=https://cdn-images-1.medium.com/max/1600/1*D7dFkNDecD5H4ZmY1myxXw.jpeg>
 
 ### Weekly Blog
 * [Medium](https://medium.com/@yunawatanabe)
