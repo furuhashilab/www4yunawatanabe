@@ -5,4 +5,4 @@
 
 
 ### Weekly Blog
-*[Medium](https://medium.com/@yunawatanabe)
+* [Medium](https://medium.com/@yunawatanabe)
