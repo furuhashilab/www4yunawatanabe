@@ -1,6 +1,8 @@
-## Welcome to Yuna's Pages
-
-こんにちは！　青山学院大学地球社会共生学部　古橋ゼミの渡辺結南です。
+# Welcome to Yuna's Pages
 
 
+こんにちは！　青山学院大学　古橋研究室　渡辺結南のアウトプット用 webサイトです。
 
+
+### Weekly Blog
+*[Medium](https://medium.com/@yunawatanabe)
