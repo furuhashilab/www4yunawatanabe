@@ -1,4 +1,4 @@
-<link href="https://raw.github.com/simonlc/Markdown-CSS/master/markdown.css" rel="stylesheet"></link>
+<link href="http://jasonm23.github.com/markdown-css-themes/markdark.css" rel="stylesheet"></link>
 
 # Welcome to Yuna's Pages
 
