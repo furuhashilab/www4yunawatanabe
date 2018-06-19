@@ -1,5 +1,3 @@
-<link href="http://jasonm23.github.com/markdown-css-themes/markdark.css" rel="stylesheet"></link>
-
 # Welcome to Yuna's Pages
 
 
@@ -13,4 +11,3 @@
 ### Contact
 * [Twitter](https://twitter.com/nabeyuna2)
 * [Facebook](https://www.facebook.com/profile.php?id=100004439441139)
-
