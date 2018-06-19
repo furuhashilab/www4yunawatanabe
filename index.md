@@ -1,7 +1,8 @@
 # Welcome to Yuna's Pages
 
-
+<blockqoute>
 こんにちは！　青山学院大学[古橋研究室](http://furuhashilab.com/)の　渡辺結南のアウトプット用 webサイトです。
+</blockquote>
 
 <img src="https://cdn-images-1.medium.com/max/1600/1*D7dFkNDecD5H4ZmY1myxXw.jpeg" width="300">
 
