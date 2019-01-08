@@ -222,23 +222,23 @@ ___
 
 ## 3.
 
-- 店舗名称を「ラーメン二郎　○○店」に統一
-- 多言語名称を「Ramen Jiro ○○」に統一
-- amenityを"fast food"に統一
-- cuisineを"ramen","jiro"に統一
-- 住所を入力
-- Opening_hoursの入力
-- takeawayをnoに統一
-- deliveryをnoに統一
-- drive_throughをnoに統一
-- smokingをnoに
-- drive_throughをnoに統一
-- outdoor_seatingをnoに統一
-- sourceをsurveyに統一
-- branchに各支店名を入力
+- 店舗名称を「ラーメン二郎　○○店」に統一した。
+- 英語表記を「Ramen Jiro ○○」に統一した。
+- amenity=fast_food
+- cuisine=ramen;jiro
+- 全店舗の住所を入力した。
+- 全店舗のOpening_hoursを入力した。
+- takeaway=no
+- delivery=no
+- drive_through=no
+- smoking=no
+- drive_through=no
+- outdoor_seating=no
+- source=survey
+- branch=各支店名
 
 
-これらを全ラーメン二郎40店舗に入力。
+これらを全ラーメン二郎40店舗に入力した。
 
 
 
