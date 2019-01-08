@@ -233,7 +233,7 @@ ___
 - drive_throughをnoに統一
 - smokingをnoに
 - drive_throughをnoに統一
--　 outdoor_seatingをnoに統一
+- outdoor_seatingをnoに統一
 - sourceをsurveyに統一
 - branchに各支店名を入力
 
