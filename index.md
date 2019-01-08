@@ -81,7 +81,7 @@ OpenStreetMap（以下OSM）とは、道路や建物などの地理データ情�
 
 
 
-#### 正しく表記されていなかった例
+#### 店舗名称が正しく表記されていなかった例
 
 
 <img width="490" alt="2018-11-21 14 54 25" src="https://user-images.githubusercontent.com/30250741/50842430-03c32700-13aa-11e9-8baa-66b72b396b53.png">
@@ -100,6 +100,22 @@ ___
 ___
 
 
+<img width="367" alt="2018-11-27 14 41 33" src="https://user-images.githubusercontent.com/30250741/50843753-a1b7f100-13ac-11e9-8acd-a08e5931d147.png">
+
+
+府中店は正しく表記されていたが、OSM上だと英語表記が優先されて表示されていた。
+
+
+___
+
+
+
+全40店舗中、buildingとして登録されていたのは29件。
+wayとして登録されていたのが2件。
+refとして登録されていたのが１件。
+
+
+
 <img width="274" alt="2018-11-28 14 30 28" src="https://user-images.githubusercontent.com/30250741/50842806-d4f98080-13aa-11e9-9306-1c29a76872a7.png">
 
 
@@ -114,6 +130,11 @@ ___
 <img width="379" alt="2018-12-14 17 01 11" src="https://user-images.githubusercontent.com/30250741/50842880-fc504d80-13aa-11e9-93b0-21aae8b2bb82.png">
 
 相模大野店はrefとして登録されていたため、ヒットしなかった。
+
+
+___
+
+
 
 
 ___
