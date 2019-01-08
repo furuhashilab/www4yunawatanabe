@@ -234,6 +234,16 @@ ___
 - smokingをnoに
 - drive_throughをnoに統一
 -　 outdoor_seatingをnoに統一
+- sourceをsurveyに統一
+- branchに各支店名を入力
+
+
+これらを全ラーメン二郎40店舗に入力。
+
+
+
+
+___
 
 
 
