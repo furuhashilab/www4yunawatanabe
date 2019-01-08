@@ -505,7 +505,8 @@ Opening_Hoursの定義をよく見ると半角スペースは論理積ANDを意�
 <img width="535" alt="2019-01-09 2 50 54" src="https://user-images.githubusercontent.com/30250741/50849125-6bcd3980-13b9-11e9-93eb-ba575897ab46.png">
 
 
-<img width="488" alt="2019-01-09 2 52 29" src="https://user-images.githubusercontent.com/30250741/50849202-a20ab900-13b9-11e9-8067-fc498e922e56.png">
+<img width="434" alt="2019-01-05 15 20 58" src="https://user-images.githubusercontent.com/30250741/50849428-5a386180-13ba-11e9-8b29-2bcced370c8d.png">
+
 
 
 「PH +1 day Tu off」の表現は問題なさそうである。また、Opening_Hours の検証ツールも教えていただいた。（https://t.co/SfaPpv1bg3）
