@@ -173,7 +173,7 @@ ___
 
 
 
-### 場所のミス
+### 場所のズレ
 
 
 <img width="575" alt="2018-11-21 14 42 05" src="https://user-images.githubusercontent.com/30250741/50842425-ff970980-13a9-11e9-8fa7-07cc3830f5e5.png">
