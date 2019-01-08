@@ -220,6 +220,22 @@ ___
 
 ___
 
+## 3.
+
+- 店舗名称を「ラーメン二郎　○○店」に統一
+- 多言語名称を「Ramen Jiro ○○」に統一
+- amenityを"fast food"に統一
+- cuisineを"ramen","jiro"に統一
+- 住所を入力
+- Opening_hoursの入力
+- takeawayをnoに統一
+- deliveryをnoに統一
+- drive_throughをnoに統一
+- smokingをnoに
+- drive_throughをnoに統一
+-　 outdoor_seatingをnoに統一
+
+
 
 
 ## 4.ラーメン二郎のamenityは　"restaurant" と　　"fast food" どちらが適しているのか？
