@@ -139,6 +139,7 @@ ___
 ### amenityの種類
 
 店舗情報がOSM上にすでに存在した店舗は22件。
+
 内、　amenityが
 
 ”fast food”として登録されていた店舗が11店舗
@@ -151,9 +152,8 @@ ___
 ### cuisineの種類
 
 店舗情報がOSM上にすでに存在した店舗は２２件。
-内、　
 
-cuisineが
+内、　cuisineが
 
 　"ramen"として登録されていた店舗が12店舗 
  
@@ -181,6 +181,35 @@ cuisineが
 
 ___
 
+
+### Opening_hours、多言語名称の未入力
+
+
+
+<img width="329" alt="2019-01-09 2 04 31" src="https://user-images.githubusercontent.com/30250741/50846711-23ab1880-13b3-11e9-834e-2d01f3429239.png">
+
+
+
+<img width="331" alt="2019-01-09 2 04 38" src="https://user-images.githubusercontent.com/30250741/50846704-1e4dce00-13b3-11e9-8129-75cf9584b3b4.png">
+
+
+
+<img width="332" alt="2019-01-09 2 04 44" src="https://user-images.githubusercontent.com/30250741/50846695-1aba4700-13b3-11e9-841c-8e979980e94a.png">
+
+
+
+
+<img width="250" alt="2019-01-09 2 05 22" src="https://user-images.githubusercontent.com/30250741/50846687-17bf5680-13b3-11e9-99cd-910ae7caa443.png">
+
+
+このように、4年前は、amenity、cuisine、nameしかなかったものに対して
+２回の編集を経て、情報が徐々に追加されているが、Opening_hoursや多言語名称は登録されていなかった店舗が存在した。
+
+
+___
+
+
+以上から、OSM上には十分なラーメン二郎の店舗情報がなかったと言える。
 
 
 
