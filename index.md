@@ -1,6 +1,7 @@
 # 2018年度　卒業論文
 
-___
+
+
 
 ## 題名：日本全国のラーメン二郎店舗位置情報オープン化の実践
 ## Title:Contributing for Ramen Jiro shop geolocation dataset as open data in Japan
