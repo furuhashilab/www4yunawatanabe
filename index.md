@@ -132,7 +132,7 @@ ___
 ### 1. ラーメン二郎とは
 
 　ラーメン二郎とは、東京都港区三田を拠点としているラーメンチェーン店のことである。
-創設者、店主である山田拓美は1968年に「ラーメン次郎」を創業。その後、２度の移転を経て、名前は「ラーメン二郎」となり、現在は慶應義塾大学三田キャンパスの隣に店舗を構える。
+創設者、店主である山田拓美は1968年に「ラーメン次郎」を創業。その後、２度の移転を経て、名前は「ラーメン二郎」となり、現在は慶應義塾大学三田キャンパスの隣に店舗を構える。<sup>2</sup>
 　スープは株式会社エフゼットによって提供される「ラーメン二郎専用醤油」を使用しており、豚骨醤油ベースでとてもこってりしたものである。麺は小ラーメンで標準茹で前300gほどあり、これは一般的なラーメン屋の２倍である。麺の上には”ヤサイ”と呼ばれる茹でたモヤシとキャベツ、そして”豚”と呼ばれる分厚いチャーシューが２枚乗せられている。
 さらに、好みにより
 * ニンニク（刻みニンニク）
@@ -147,14 +147,14 @@ ___
 また、ラーメン二郎は日本だけでなく海外でも注目され始めている。
 
 
-2009年9月13日、英紙の「The Guardian」は「The 50 best things to eat in the world, and where to eat them」として50番目にラーメン二郎を取り上げた。
+2009年9月13日、英紙の「The Guardian」は「The 50 best things to eat in the world, and where to eat them」として50番目にラーメン二郎を取り上げた。<sup>3</sup>
 
 <img width="648" alt="2019-01-09 19 34 18" src="https://user-images.githubusercontent.com/30250741/50894034-98c72e00-1445-11e9-99cb-c0ebeaaf34c6.png">
 
 
 
 また、ラーメン二郎ではないが、「二郎インスパイア」と呼ばれる、ラーメン二郎を模して作られたラーメン屋「夢を語れ」が
-2012年9月、「Yume wo katare」としてアメリカのボストンにオープンし、連日絶大な人気を誇っている。
+2012年9月、「Yume wo katare」としてアメリカのボストンにオープンし、連日絶大な人気を誇っている。<sup>4</sup>
 
 
 
@@ -352,7 +352,7 @@ ___
 
 restaurantとfast_food それぞれのOSM上での定義を見ていく。
 
-五十音順POIタグ一覧によると
+五十音順POIタグ一覧<sup>5</sup>によると
 
 
 <img width="936" alt="2018-12-13 13 18 10" src="https://user-images.githubusercontent.com/30250741/50847935-2fe4a500-13b6-11e9-8025-823b741a51b7.png">
@@ -371,7 +371,7 @@ restaurantとfast_food それぞれのOSM上での定義を見ていく。
 
 
 
-OSM wikiに記載されている通り、fast_food は
+OSM wikiに記載<sup>6</sup>されている通り、fast_food は
 
 素早いカウンターのみのサービス（支払いもカウンター）
 
@@ -387,7 +387,7 @@ OSM wikiに記載されている通り、fast_food は
 
 と記されている。
 
-一方restaurantはこうだ。
+一方restaurant<sup>7</sup>はこうだ。
 
 
 <img width="818" alt="2018-12-12 13 07 57" src="https://user-images.githubusercontent.com/30250741/50847962-425ede80-13b6-11e9-9b78-9231e63054fc.png">
@@ -508,7 +508,7 @@ amenityとは違って、複数の選択肢があるcuisineだが、どのよう
 
 ![image](https://user-images.githubusercontent.com/30250741/50848439-a209b980-13b7-11e9-954d-fddf0e55b5b3.png)
 
-cuisineとは、飲食が可能な場所で提供される、料理の種類を記述するもの。
+cuisineとは、飲食が可能な場所で提供される、料理の種類を記述するもの。<sup>8</sup>
 
 
 
@@ -516,7 +516,7 @@ cuisineとは、飲食が可能な場所で提供される、料理の種類を�
 <img width="846" alt="2018-12-13 13 16 33" src="https://user-images.githubusercontent.com/30250741/50848347-6111a500-13b7-11e9-9f84-3c5ad5bbe1a6.png">
 
 
-noodle：日本、中国、韓国の麺料理。日本のうどん、蕎麦、ラーメン、中国の担々麺、タンメン、韓国の冷麺、ビビン麺を含む。東アジア地域で一般的な料理だが、世界中に広まりつつある。
+noodle：日本、中国、韓国の麺料理。日本のうどん、蕎麦、ラーメン、中国の担々麺、タンメン、韓国の冷麺、ビビン麺を含む。東アジア地域で一般的な料理だが、世界中に広まりつつある。<sup>9</sup>
 
 
 <img width="936" alt="2018-12-13 13 18 10" src="https://user-images.githubusercontent.com/30250741/50848364-6c64d080-13b7-11e9-8d66-b7bf2acfc21c.png">
@@ -593,7 +593,7 @@ ___
 
 Opening_hoursの書き方については基本的に
 
-<https://wiki.openstreetmap.org/wiki/JA:Key:opening_hours>
+[JA:Key:opening_hours](https://wiki.openstreetmap.org/wiki/JA:Key:opening_hours)<sup>10</sup>
 
 を参考にしている。
 
@@ -649,14 +649,14 @@ ___
 
 <img width="672" alt="2019-01-09 19 07 03" src="https://user-images.githubusercontent.com/30250741/50893376-05d9c400-1444-11e9-99a6-bdd6aae61a9e.png">
 
-2014年9月4日、米Tesla MotorsのCEOであるイーロン・マスク氏は、2014年9月7日、ラーメン二郎 新宿歌舞伎町店に訪問し、一時話題となった。
+2014年9月4日、米Tesla MotorsのCEOであるイーロン・マスク氏は、2014年9月7日、ラーメン二郎 新宿歌舞伎町店に訪問し、一時話題となった。<sup>11</sup>
 
 
 
 <img width="674" alt="2019-01-09 19 26 24" src="https://user-images.githubusercontent.com/30250741/50893551-7b459480-1444-11e9-8287-2c1b4de84a29.png">
 
 
-加えて、2011年11月19日には、当時のブータン国王夫妻が「ラーメン二郎を食してみたい」との要望で、ラーメン二郎　目黒店の昼の部が臨時休業となり、話題となった。
+加えて、2011年11月19日には、当時のブータン国王夫妻が「ラーメン二郎を食してみたい」との要望で、ラーメン二郎　目黒店の昼の部が臨時休業となり、話題となった。<sup>12</sup>
 
 
 「１.ラーメン二郎とは」にも述べたように、2009年9月、英紙ガーディアンも「世界のおいしい料理50選」としてラーメン二郎を取り上げている。
@@ -698,12 +698,39 @@ ___
 　この研究を通じて、筆者が現地調査を基に収集したラーメン二郎40店舗分の地理空間情報をOSMデータベース内に登録し、既存データの見直しも行い、そのタギングルールを統一させた。また、今後ラーメン二郎の店舗出店及び閉店などの変化や、二郎系と呼ばれる類似のラーメン店等についての情報をOSM上で編集していく際のリファレンスを作ることができた。
 　課題として、長期の臨時休業などといった各店舗の生の情報を見ないとわからないような情報を、継続的にどれだけ早くOSM上に反映できるかはジロリアンコミュニティからの情報連携は重要であると考えられる。
  
-　併せて、cuisine=jiro という独自タグを提案し、仮に入力してみたが、このタグはOSM公式タグとしてグローバルで認められたものではない。OSM公式地物タグとして定着させるには次に述べるいくつかの提案/承認プロセスが必要である。
+　併せて、cuisine=jiro という独自タグを提案し、仮に入力してみたが、このタグはOSM公式タグとしてグローバルで認められたものではない。OSM公式地物タグとして定着させるには次に述べるいくつかの提案/承認プロセスが必要である。<sup>13</sup> <sup>14</sup>
 　まずは、特筆性を提示し、提案ページを作成する。提案ページを公開し議論を経て、２週間以上経過したのち、投票を開始する。ここで、74%以上の十分な支持を獲得できれば、新しいタグとしてOSM内で承認される。ここに書いた提案プロセスはあくまで概要なので、詳しくはOSM wikiを参照してほしい。本研究ではOSM公式タグ提案までのプロセスまでは実施できていない。
 
 
 ___
 
 
+### 参考文献
 
+1.[日本上陸から１３０年！！らーめんの歴史](http://raamenkaigyou.com/%E3%82%89%E3%83%BC%E3%82%81%E3%82%93%E3%81%AE%E6%AD%B4%E5%8F%B2.html)
 
+2.[ラーメン二郎館](http://xn--4dkp5a8a4562a1c2fvhm.com/)
+
+3.[The 50 best things to eat in the world, and where to eat them](https://www.theguardian.com/lifeandstyle/2009/sep/13/best-foods-in-the-world)
+
+4.[Yume Wo Katare a spot to eat ramen](https://www.bostonglobe.com/lifestyle/food-dining/2012/12/04/spot-eat-ramen-and-only-ramen-and-talk-about-your-dreams/wAQ5gxe5IXZ0wRlUm9TacJ/story.html)
+
+5.[JA:How to map a](https://wiki.openstreetmap.org/wiki/JA:How_to_map_a)
+
+6.[Tag:amenity=fast_food](https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dfast_food)
+
+7.[JA:Tag:amenity=restaurant](https://wiki.openstreetmap.org/wiki/JA:Tag:amenity%3Drestaurant)
+
+8.[JA:Key:cuisine](https://wiki.openstreetmap.org/wiki/JA:Key:cuisine)
+
+9.[JA:Naming sample](https://wiki.openstreetmap.org/wiki/JA:Naming_sample)
+
+10.[JA:Key:opening_hours](https://wiki.openstreetmap.org/wiki/JA:Key:opening_hours)
+
+11.[イーロン・マスク氏、ラーメン二郎は「非常に美味しかった」](https://japan.cnet.com/article/35053480/)
+
+12.[ラーメン二郎全メルマガリアルタイム](http://jirora.blogspot.com/2011/11/blog-post_1911.html)
+
+13.[JA:提案プロセス](https://wiki.openstreetmap.org/wiki/JA:%E6%8F%90%E6%A1%88%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9)
+
+14.[JA:何でも好きなタグを](https://wiki.openstreetmap.org/wiki/JA:%E4%BD%95%E3%81%A7%E3%82%82%E5%A5%BD%E3%81%8D%E3%81%AA%E3%82%BF%E3%82%B0%E3%82%92)
