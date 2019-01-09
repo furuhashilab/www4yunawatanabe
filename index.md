@@ -5,7 +5,7 @@ ___
 ## 題名：日本全国のラーメン二郎店舗位置情報オープン化の実践
 ## Title:Contributing for Ramen Jiro shop geolocation dataset as open data in Japan
 
-___
+
 
 2019年1月10日
 
